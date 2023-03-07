@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PRAKTIKAN\\Documents\\JurnaModul3\\JurnaModul3\\JurnaModul3.csproj",
+      "projectUniqueName": "C:\\Users\\PRAKTIKAN\\Documents\\JurnalModul3\\JurnaModul3\\JurnaModul3.csproj",
       "projectName": "JurnaModul3",
-      "projectPath": "C:\\Users\\PRAKTIKAN\\Documents\\JurnaModul3\\JurnaModul3\\JurnaModul3.csproj",
+      "projectPath": "C:\\Users\\PRAKTIKAN\\Documents\\JurnalModul3\\JurnaModul3\\JurnaModul3.csproj",
       "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PRAKTIKAN\\Documents\\JurnaModul3\\JurnaModul3\\obj\\",
+      "outputPath": "C:\\Users\\PRAKTIKAN\\Documents\\JurnalModul3\\JurnaModul3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PRAKTIKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
